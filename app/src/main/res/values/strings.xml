@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login&amp;SignUp</string>
+    <string name="app_title">dTravel</string>
+    <string name="back_button">back_button</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
